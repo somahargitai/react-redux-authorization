@@ -7,6 +7,7 @@ What you will learn:
 - setting `useAuthorization` hook for authorization
 - how to hide a page from unauthorized users
 - how to use a single `/settings` path and render different components based on the role
+- redirect admin user to `/admin` page after login
 
 ## How to run
 
